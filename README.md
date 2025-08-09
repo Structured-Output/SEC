@@ -1,6 +1,8 @@
 # SEC
 Using LLM's structured output to cheaply create data without licensing restrictions to enable research. This repo is for SEC data, which is easily downloadable and parseable via the [datamule](https://github.com/john-friedman/datamule-python) library.
 
+Original Inspiration: a lunch at Tulsi Indian Eatery with Richard Li, Millenium Li, Kelly Ju, and Maggie Wang. [Article](https://medium.com/@jgfriedman99/how-to-create-alternative-datasets-using-datamule-d3a0192da8f6)
+
 ## Code
 Currently using the python package [txt2dataset](https://github.com/john-friedman/txt2dataset). Needs an update, will be fixed soon.
 
