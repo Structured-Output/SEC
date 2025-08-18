@@ -1,0 +1,8 @@
+# add typical python stuff and venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
