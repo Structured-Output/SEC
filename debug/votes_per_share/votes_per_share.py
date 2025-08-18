@@ -16,7 +16,7 @@ class VotingRightsExtraction(BaseModel):
     data: List[ShareClassVotingRights] = []
 
 portfolio = Portfolio('8k_8k')
-portfolio.download_submissions(submission_type=['8-K','8-K/A'],document_type=['8-K','8-K/A'],filing_date=('2020-01-01','2020-01-31'))
+portfolio.download_submissions(submission_type=['8-K','8-K/A'],document_type=['8-K','8-K/A'],filing_date=('2020-01-01','2020-12-31'))
 
 # construct entries
 rows = []
