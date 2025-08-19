@@ -22,8 +22,6 @@ Test scripts intended to be later productionized.
 2. For suggested datasets, find where the information is recorded in text within the SEC corpus.
 3. Check datasets for errors and bugs.
 4. Test what schemas produce better outputs.
-5. Benchmark schema output w.r.t. to specific models.
-6. Make something cool with the data for the showcase.
 
 ## API Credits
 
